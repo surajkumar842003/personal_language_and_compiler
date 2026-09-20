@@ -465,15 +465,5 @@ The `docs/` folder contains visual references for understanding the compiler int
 - **`view_object_code.png`** — Generated object code structure
 - **`view_object__dispatch_creation.png`** — Dispatch table construction
 
-### External References
 
-- [Stanford CS143 Course Page](https://web.stanford.edu/class/cs143/)
-- [The Cool Reference Manual](https://theory.stanford.edu/~aiken/software/cool/cool-manual.pdf)
-- [SPIM MIPS Simulator](http://spimsimulator.sourceforge.net/)
-
----
-
-## License
-
-This project is based on the Stanford CS143 Compilers course materials. The course infrastructure is copyright © The Regents of the University of California. The student implementations (`cool.flex`, `cool.y`, `semant.c`, `cgen.cc`) are original work.
 
